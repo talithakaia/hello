@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_stutter" id="79" x="353" y="72">
+  <block type="movement_left" id="96" x="259" y="85">
     <next>
       <block type="robot_delay" id="69" inline="true">
         <value name="DELAY">
